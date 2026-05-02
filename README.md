@@ -277,10 +277,3 @@ The pipeline is **domain-agnostic**. Swap the dataset and update the aspect cate
 MIT — free to use, adapt, and build on. See [LICENSE](LICENSE).
 
 ---
-
-## 🙋 Author
-
-Built by **[Your Name]** as a senior-level portfolio project demonstrating end-to-end data engineering, analytics engineering, and AI/NLP pipeline skills on the Snowflake ecosystem.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
