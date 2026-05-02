@@ -17,7 +17,7 @@ The project is delivered as **three independent, production-ready deliverables**
 
 | Deliverable | File | Description |
 |-------------|------|-------------|
-| 📄 SQL Pipeline | `sql/01_setup.sql` | 740-line, 6-phase Snowflake pipeline |
+| 📄 SQL Pipeline | `sql/airline_review_snowflake_setup.sql` | 740-line, 6-phase Snowflake pipeline |
 | 📓 Notebook | `notebook/airline_review_cortex_notebook.ipynb` | 31-cell Snowflake Notebook with 5 chart types |
 | 💻 Streamlit App | `streamlit/airline_streamlit_app.py` | 7-tab live dashboard, 1000+ lines |
 
